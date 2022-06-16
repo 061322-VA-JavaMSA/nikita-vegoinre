@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+package com.revature.oop.daos;
+
+public interface TaskDao {
+	
+	public abstract Task getTaskById(int id);
+	Task addTask(Task newTask)
+}
+
+/**
+ * @author n
+ *
+ */
+public interface TaskDao {
+
+}

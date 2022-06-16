@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.revature.oop.daos;
+
+/**
+ * @author n
+ *
+ */
+public interface TaskPostgres {
+
+}
