@@ -1,9 +1,9 @@
 package com.revature.driver;
 
-public class yummydriver {
+public class YummyDriver {
 
 	public static void main(String[] args) {
-		// TODO need to feed dog
+		// TODO add task implementation from task class methods, addl
 
 	}
 	
