@@ -5,6 +5,16 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class ConnectionUtil {
+	
+	
+/*
+ * Singleton is a good design pattern for
+ * ensuring that only one instance of a class exists
+ * Essentially makes something only form an object once then final
+ * - Useful for heavier use of resources, uses multiple conditions
+ * Getter Method - public static retrieve
+ * 
+ */
 
 	public static Connection c;
 		//set static variable, gosh I cannot type
