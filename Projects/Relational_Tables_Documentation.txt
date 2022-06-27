@@ -18,10 +18,10 @@ PG - 1
 
 /*Table List:[Global] (Note: Functional Group) => Business Logic Direction and Pointer
 
-Table 1 (Fun Group1) => 
+Table 1 - [Master PK] 'info_id'(Fun Group =Driver et,al) => PK links all database elements (matrix) together for recall
 
-PK:
-FK:
+PK: 'info_id'
+FK: Any/All
 
 Col - |Name 1; Name 2
 
