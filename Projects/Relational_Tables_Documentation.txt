@@ -1,0 +1,7 @@
+//This Document recaps in greater detail Tables and Data Structure for Yummy Ice Cream
+
+//Start (Codified on 06/27/2020)
+
+/*Table List:
+
+*/
