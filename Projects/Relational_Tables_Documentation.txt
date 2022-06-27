@@ -1,7 +1,55 @@
-//This Document recaps in greater detail Tables and Data Structure for Yummy Ice Cream
+//This Document recaps in greater detail Tables and Data Structure for Yummy Ice Cream i.e. Project-Zero
 
 //Start (Codified on 06/27/2020)
 
-/*Table List:
+Legend:
+
+Index:
+
+Section 1 (Intro)
+PG - 1 
+
+Section 2 (Relational Tables and Notes)
+PG - 1 thru 2
+
+Section 1 (Intro)
+PG - 1 
+
+
+/*Table List:[Global] (Note: Functional Group) => Business Logic Direction and Pointer
+
+Table 1 (Fun Group1) => 
+
+PK:
+FK:
+
+Col - |Name 1; Name 2
+
+Row 1 -|
+
+Row n - |
+
+
+
+Table 1 (Fun Group1) => 
+
+Col - |Name 1; Name 2
+
+Row 1 -|
+
+Row n - |
+
+
+Table 1 (Fun Group1) => 
+
+Col - |Name 1; Name 2
+
+Row 1 -|
+
+Row n - |
+
+
+
+
 
 */
